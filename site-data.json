@@ -1,0 +1,324 @@
+{
+  "business": {
+    "name": "Mobile Mechanic 24/7",
+    "shortName": "Mobile Mechanic 24/7",
+    "tagline": "Reliable Mobile Auto Repair in Dallas – We Come to You",
+    "niche": "Auto Mechanic",
+    "phone": "(469) 838-1899",
+    "address": "Dallas, TX",
+    "city": "Dallas, TX",
+    "hours": "Mon–Sun: 7 AM – 10 PM",
+    "ctaLabel": "Schedule Your Repair",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Mobile Mechanic 24/7 | Dallas Mobile Auto Repair | Call (469) 838-1899",
+    "description": "Mobile Mechanic 24/7 in Dallas offers expert on-site auto repair, diagnostics, and maintenance. ASE-certified mechanics, fair pricing, and same-day service. Call now!"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas Mobile Auto Repair",
+      "headline": "Expert Mobile Mechanic – We Come to You in Dallas",
+      "subheadline": "ASE-certified mechanics provide fast, reliable on-site repairs at your home or office. No towing needed, fair prices, and a 12-month/12,000-mile warranty.",
+      "primaryCta": "Call (469) 838-1899",
+      "secondaryCta": "Get a Free Estimate"
+    },
+    "stats": [
+      {
+        "value": "12+",
+        "label": "Years of Service"
+      },
+      {
+        "value": "4.8",
+        "label": "Average Customer Rating"
+      },
+      {
+        "value": "500+",
+        "label": "Vehicles Repaired"
+      },
+      {
+        "value": "1 Hour",
+        "label": "Average Response Time"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Convenience",
+        "title": "We Bring the Shop to You",
+        "body": "Skip the hassle of towing and waiting rooms. Our mobile mechanics arrive fully equipped to diagnose and repair your vehicle on the spot. Whether you're at home in Lakewood or at work in Uptown, we come to you.",
+        "bullets": [
+          "No towing fees – we come to your location",
+          "Same-day and emergency service available",
+          "Work on all makes and models"
+        ],
+        "reverse": false,
+        "cardLabel": "Service Area",
+        "cardTitle": "Covering Dallas & Surrounding Areas",
+        "cardBody": "We serve all of Dallas, including Highland Park, Lakewood, Oak Lawn, and more. Call to confirm availability."
+      },
+      {
+        "eyebrow": "Quality",
+        "title": "ASE-Certified & Fully Equipped",
+        "body": "Our mechanics are ASE-certified and carry specialized tools to handle everything from oil changes to engine diagnostics. We use high-quality parts and back our work with a solid warranty.",
+        "bullets": [
+          "ASE-certified technicians with years of experience",
+          "Advanced diagnostic tools for accurate repairs",
+          "12-month/12,000-mile warranty on all services"
+        ],
+        "reverse": true,
+        "cardLabel": "Warranty",
+        "cardTitle": "Peace of Mind Guaranteed",
+        "cardBody": "Every repair comes with a 12-month/12,000-mile warranty. If something goes wrong, we'll make it right at no extra cost."
+      }
+    ],
+    "whyTitle": "Why Choose Mobile Mechanic 24/7?",
+    "whyChooseUs": [
+      {
+        "title": "No Towing Needed",
+        "description": "We come to your location – home, office, or roadside. Save time and money with convenient on-site service."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Get a free upfront estimate with no hidden fees. We'll explain the work before we start."
+      },
+      {
+        "title": "Same-Day Service",
+        "description": "Most repairs can be completed the same day. Call us in the morning and be back on the road by evening."
+      },
+      {
+        "title": "Experienced Technicians",
+        "description": "Our ASE-certified mechanics have over a decade of experience with all major vehicle brands."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I was stranded in a parking lot and they were there within an hour. Fixed my alternator on the spot. Fair price and super friendly.",
+        "author": "Chris D.",
+        "role": "Lakewood resident"
+      },
+      {
+        "quote": "I've used them twice now – once for a brake job and once for a check engine light. Both times they were prompt, professional, and honest.",
+        "author": "Megan R.",
+        "role": "Oak Lawn homeowner"
+      },
+      {
+        "quote": "Best mobile mechanic in Dallas. They diagnosed my transmission issue quickly and saved me hundreds compared to the dealer quote.",
+        "author": "James L.",
+        "role": "Uptown professional"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Your Car Fixed?",
+      "subheadline": "Call us now or schedule online for fast, reliable mobile repair in Dallas.",
+      "primaryCta": "Call (469) 838-1899",
+      "secondaryCta": "Book Online"
+    }
+  },
+  "servicesPage": {
+    "intro": "We offer comprehensive mobile auto repair services in Dallas. All work is performed on-site by ASE-certified mechanics using quality parts. Call or book online for a free estimate."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Accurate diagnostics and expert engine repair at your location.",
+      "longDescription": "From check engine lights to major repairs, our mobile mechanics use advanced diagnostic tools to pinpoint issues quickly. We repair or replace components like sensors, belts, hoses, and more – all at your home or office.",
+      "benefits": [
+        "On-site computer diagnostics for accurate problem identification",
+        "Repairs for common issues like misfires, overheating, and leaks",
+        "Use of OEM or high-quality aftermarket parts"
+      ],
+      "process": [
+        {
+          "title": "Diagnostic Scan",
+          "description": "We connect our scanner to your vehicle's computer to read trouble codes and live data."
+        },
+        {
+          "title": "Inspection & Estimate",
+          "description": "We inspect the affected systems and provide a detailed estimate before starting any work."
+        },
+        {
+          "title": "Repair & Test",
+          "description": "We complete the repair and test drive your vehicle to ensure the issue is resolved."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you diagnose a check engine light on-site?",
+          "answer": "Yes, we bring professional diagnostic scanners that can read and interpret all OBD-II codes."
+        },
+        {
+          "question": "Do you replace engines?",
+          "answer": "We can handle many internal engine repairs, but full engine replacements may require a shop. Contact us to discuss your specific needs."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Repair & Replacement",
+      "shortDescription": "Safe, reliable brake service performed at your location.",
+      "longDescription": "We replace brake pads, rotors, calipers, and brake lines on all makes and models. Our mobile service includes a thorough inspection of the entire braking system to ensure your safety.",
+      "benefits": [
+        "Complete brake system inspection included",
+        "High-quality pads and rotors for long-lasting performance",
+        "Same-day service available for most vehicles"
+      ],
+      "process": [
+        {
+          "title": "Brake Inspection",
+          "description": "We check pad thickness, rotor condition, caliper function, and brake fluid level."
+        },
+        {
+          "title": "Parts Replacement",
+          "description": "We replace worn components with quality parts, ensuring proper fitment."
+        },
+        {
+          "title": "Test & Adjustment",
+          "description": "We test the brakes, adjust the parking brake, and road test for optimal performance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a brake job take?",
+          "answer": "Most brake pad and rotor replacements take about 1-2 hours."
+        },
+        {
+          "question": "Do you use OEM parts?",
+          "answer": "We offer both OEM and premium aftermarket parts based on your preference and budget."
+        }
+      ],
+      "slug": "brake-repair-replacement"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Change & Fluid Services",
+      "shortDescription": "Routine maintenance to keep your engine running smoothly.",
+      "longDescription": "Stay on top of maintenance with our mobile oil change service. We also flush and replace transmission fluid, coolant, brake fluid, and power steering fluid. We'll even reset your oil life monitor.",
+      "benefits": [
+        "Convenient service at your home or office",
+        "Use of synthetic or conventional oil as recommended",
+        "Fluid level checks and top-offs included"
+      ],
+      "process": [
+        {
+          "title": "Oil Drain & Filter Change",
+          "description": "We drain old oil, replace the filter, and refill with fresh oil of your choice."
+        },
+        {
+          "title": "Fluid Check & Top-Off",
+          "description": "We check all other fluids and top off as needed."
+        },
+        {
+          "title": "Reset & Disposal",
+          "description": "We reset your oil life monitor and properly dispose of used oil and filters."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you use synthetic oil?",
+          "answer": "Yes, we offer both conventional and synthetic oil changes. Let us know your preference."
+        },
+        {
+          "question": "Can you change oil in any vehicle?",
+          "answer": "We service cars, trucks, and SUVs of all makes and models."
+        }
+      ],
+      "slug": "oil-change-fluid-services"
+    },
+    {
+      "icon": "04",
+      "title": "Battery & Electrical System Service",
+      "shortDescription": "Battery testing, replacement, and electrical diagnostics.",
+      "longDescription": "We test your battery, alternator, and starter system to identify electrical problems. We can replace batteries, alternators, and perform basic electrical repairs on-site.",
+      "benefits": [
+        "Free battery and charging system test",
+        "Battery replacement with nationwide warranty",
+        "Diagnosis of electrical issues like dim lights or no-start"
+      ],
+      "process": [
+        {
+          "title": "System Test",
+          "description": "We test battery voltage, alternator output, and starter draw using professional equipment."
+        },
+        {
+          "title": "Diagnosis",
+          "description": "If a component fails, we explain the issue and provide a repair option."
+        },
+        {
+          "title": "Replacement",
+          "description": "We replace the faulty part and retest the system to confirm proper operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you test my battery without removing it?",
+          "answer": "Yes, we test the battery in your vehicle using a handheld analyzer."
+        },
+        {
+          "question": "Do you sell batteries?",
+          "answer": "Yes, we carry a range of batteries for most vehicles and can install them on the spot."
+        }
+      ],
+      "slug": "battery-electrical-system-service"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Mobile Mechanic in Dallas",
+    "mission": "To provide convenient, high-quality auto repair wherever you are, with transparent pricing and exceptional customer service.",
+    "story": [
+      "Mobile Mechanic 24/7 was founded in Dallas with a simple mission: make car repair as easy as possible. We saw that traditional shops required towing, long waits, and often unclear pricing. So we built a mobile service that brings the mechanic to you – saving time, money, and hassle.",
+      "Over the past 12 years, we've grown from a single van to a fleet of fully equipped service vehicles. Our team of ASE-certified mechanics shares a passion for cars and a commitment to honest work. We've helped thousands of Dallas drivers get back on the road quickly and safely, earning a reputation for reliability and fair dealing."
+    ],
+    "highlight": {
+      "stat": "4.8",
+      "label": "Average Rating from 500+ Repairs"
+    },
+    "coreValues": [
+      {
+        "title": "Honesty",
+        "description": "We never recommend unnecessary repairs. We explain your options and let you decide."
+      },
+      {
+        "title": "Convenience",
+        "description": "We come to you – home, office, or roadside – and work around your schedule."
+      },
+      {
+        "title": "Quality",
+        "description": "We use quality parts and back our work with a 12-month/12,000-mile warranty."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your vehicle and your time with respect. Clean, prompt, and professional."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Call or book online for a free estimate. Our team is ready to help.",
+    "primaryCta": "Call (469) 838-1899",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "Lakewood",
+      "Oak Lawn",
+      "Uptown",
+      "Preston Hollow",
+      "North Dallas",
+      "Park Cities"
+    ]
+  },
+  "social_proof": {
+    "rating": "",
+    "reviews": ""
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:4698381899",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
